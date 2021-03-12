@@ -1,0 +1,16 @@
+.center {
+    text-align:center;
+}
+a {
+    padding: 5px;
+}
+
+.li-index {
+    list-style: inside;
+    padding: 5px;
+    margin-right: 50px;
+}
+
+.li-urun {
+    list-style-position: inside;
+}
